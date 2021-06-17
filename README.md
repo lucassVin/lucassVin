@@ -1,12 +1,4 @@
 ### Fala Rapeize!
 
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning HTML, CSS, JS and NODEJS.
-- 🤔 I’m looking for help with HTML, CSS, JS.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
