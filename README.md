@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://codepen.io/lucassvin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lucassVin" height="20" width="20" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucassVin" height="20" width="20" /></a>
+<a href="https://twitter.com/lucass22286597" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lucassVin" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/lucass-barros-373180215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucassVin" height="20" width="20" /></a>
 </p>
 
